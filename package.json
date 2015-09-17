@@ -1,0 +1,37 @@
+{
+  "name": "grunt-globaltsd",
+  "description": "Grunt global TSD",
+  "version": "0.0.1",
+  "author": "Eduardo Burgos <eburgos@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ninejs/ninejs"
+  },
+  "main": "lib/ninejs",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "bin": {
+
+  },
+  "component": {
+    "scripts": {}
+  },
+  "scripts": {},
+  "contributors": [
+    "Eduardo Burgos <eburgos@gmail.com> (http://www.eduardoburgos.com/)"
+  ],
+  "readmeFilename": "README.md",
+  "keywords": [
+    "grunt",
+    "global",
+    "tsd",
+    "typescript",
+    "definition",
+    "generator"
+  ],
+  "license": "MIT"
+}
