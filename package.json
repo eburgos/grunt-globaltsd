@@ -9,7 +9,7 @@
   },
   "main": "lib/ninejs",
   "dependencies": {
-
+    "dts-bundle": "git+https://github.com/eburgos/dts-bundle.git#master"
   },
   "devDependencies": {
 
